@@ -7,7 +7,7 @@ Computer Science Engineering Student | Java Developer | Aspiring SDE
 🚀 Building projects and improving my DSA skills  
 📚 Currently learning Data Structures, Algorithms & Backend Development
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 Pursuing Computer Science & Engineering
 - 💻 Interested in Software Development Engineer (SDE) roles
@@ -68,7 +68,7 @@ An offline predictive system designed for secure network operations, combining a
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poonati-ajitha-17653a35a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
